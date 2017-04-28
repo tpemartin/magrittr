@@ -6,7 +6,7 @@
 #' Currently implemented aliases are
 #' \tabular{ll}{
 #' \code{extract}            \tab \code{`[`}      \cr
-#' \code{extract2}           \tab \code{`[[`}     \cr
+#' \code{extract2}      ####        \tab \code{`[[`}     \cr
 #' \code{inset}              \tab \code{`[<-`}    \cr
 #' \code{inset2}             \tab \code{`[[<-`}   \cr
 #' \code{use_series}         \tab \code{`$`}      \cr
